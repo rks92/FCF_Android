@@ -21,4 +21,8 @@ gen/com/szaidi/youtubevideolist/R.java
 
 gen/com/szaidi/youtubevideolist/BuildConfig.java
 
+gen/
+
+bin/
+
 bin/resources.ap_
